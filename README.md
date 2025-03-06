@@ -1,14 +1,14 @@
 
-# Hi, my name is [Miroslav Shivachev](https://github.com/MRShivachev/)
+# Howdy
 <hr>
+  
 
+### About me:
 
-<img align="right" height="250" width="375" alt="" src="https://i.gifer.com/3OuaG.gif" />
-
-## About me:
+<img float="right" align="right"  alt=""  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9jdGtrYWpreXVrNmZxcjR5eWZjN2ExcjMzY3FqM2ZxZ3A5Y2VzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/16LitJ6Pnp5qY2GcEW/giphy.gif" />
 
 - 🚀 &nbsp; I’m currently learning C++, HTML5 & CSS3 and C#
-- 👨🏻‍💻 &nbsp; My projects are available on [Github](https://github.com/MRShivachev?tab=repositories)
+- 👨🏻‍💻 &nbsp; My projects are available [here](https://github.com/MRShivachev?tab=repositories)
 - 📫 &nbsp; Reach me: mrshivachev20@codingburgas.bg
 
 <hr>
